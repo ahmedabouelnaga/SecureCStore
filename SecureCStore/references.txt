@@ -1,0 +1,15 @@
+Reference List for W4181 Homework
+
+/* include the following statement if you have not referenced anything */
+In doing my homework, I certify that I have not used any materials
+other than the course textbooks and Linux source code, and I have not
+discussed the homework assignment with anyone other than the W4181
+instructional staff and, for the team programming portion of the assignment,
+my team.
+
+C Library 
+https://www.geeksforgeeks.org/
+
+/* replace with your name and UNI */
+Ahmed Abouelnaga
+aha2180

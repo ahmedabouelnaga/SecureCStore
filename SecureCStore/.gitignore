@@ -1,0 +1,10 @@
+**/.o
+**/.vscode
+**/.swp
+**/hmac
+**/aes-decrypt
+**/aes-encrypt
+**/hmac
+**/cstore
+**/*.pyc
+**/__pycache__

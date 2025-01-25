@@ -1,0 +1,19 @@
+NOTE: add hmac-verify to part 1
+
+- use python to test
+
+tests:
+
+ - verify -p option behaves as expected in all programs
+
+ - generate hmac for file and see if program correctly validates it
+ - generate incorrect hmac for file and see if program detects a match
+ - generate a file and have the program create an hmac of the file; independently verify
+
+ - encrypt file and decrypt it and verify hashes match
+ - encrypt file with tool and manually decrypt it and verify AES is correct
+ - encrypt file with python and decrypt with tool and verify AES is correct
+ - tamper with encrypted file and ensure output does not match when decrypted
+
+ - andrew's tests for cstore
+
